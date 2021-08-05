@@ -18,5 +18,10 @@
     "id_product": 246,
     "product_name": "Кышка",
     "price": 120020
+  },
+  {
+    "id_product": 2246,
+    "product_name": "Лыжи",
+    "price": 1310020
   }
 ]
