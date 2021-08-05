@@ -13,5 +13,10 @@
     "id_product": 46,
     "product_name": "Мышка",
     "price": 10020
+  },
+  {
+    "id_product": 246,
+    "product_name": "Кышка",
+    "price": 120020
   }
 ]
